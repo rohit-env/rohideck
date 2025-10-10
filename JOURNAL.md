@@ -34,3 +34,12 @@ got through it alive, but just barely
 ![day2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--49d7d89f84e8693ed5babf6b7e2cd3abce66a3f0/day2.png)
   
 
+## 10/11/2025 - added the cm4 lite footprint and some essentials around it  
+
+today was CM4 Lite day, and man this thing has a crazy number of pins
+literally had to scroll through three different PDFs to not mess up the IO mapping
+figured out where to connect PCIe and eMMC signals even though I’m not using either
+started drawing out the main headers and labeling them so I wouldn’t cry later
+threw in level shifters and testpoints just to be safe![day3.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--efd85f72346e42830c84962ea838c18fade0c178/day3.png)
+  
+
