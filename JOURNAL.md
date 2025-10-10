@@ -34,12 +34,23 @@ got through it alive, but just barely
 ![day2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--49d7d89f84e8693ed5babf6b7e2cd3abce66a3f0/day2.png)
   
 
-## 10/11/2025 - added the cm4 lite footprint and some essentials around it  
+## 10/11/2025 1:00 AM - added the cm4 lite footprint and some essentials around it  
 
 today was CM4 Lite day, and man this thing has a crazy number of pins
 literally had to scroll through three different PDFs to not mess up the IO mapping
 figured out where to connect PCIe and eMMC signals even though I’m not using either
 started drawing out the main headers and labeling them so I wouldn’t cry later
 threw in level shifters and testpoints just to be safe![day3.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--efd85f72346e42830c84962ea838c18fade0c178/day3.png)
+  
+
+## 10/11/2025 1:02 AM - hooked up the esp and usb hub chip  
+
+today was about the esp32 and the USB hub, two chips I really like but hate wiring
+added the esp32 footprint and spent too long assigning IOs
+for the usb hub, I was constantly bouncing between the datasheet and KiCad
+wired up USB upstream/downstream lines and crossed my fingers on signal integrity
+threw in some debug headers and left room for ESD stuff I haven’t decided on yet
+also started routing logic enable signals to give me more control later
+kinda messy but functionally complete![day4.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--fd94e24be29d5c38b869675385ff19243a17c339/day4.png)
   
 
