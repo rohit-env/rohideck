@@ -21,3 +21,16 @@ it's still super rough, but at least the board’s not completely empty anymore
 definitely not thinking about routing yet![day 1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--4c5f583684176dfbddac1a05d51663791643253a/day%201.png)
   
 
+## 10/10/2025 - threw in the hdmi stuff  
+
+dove headfirst into HDMI today and instantly regretted it!
+the connector footprint was cursed and I had to double-check every diff pair
+wired up the HDMI chip and some tiny filter caps for signal integrity
+had to decide whether to bother with hotplug detection and i just YOLO’d it in
+tried to keep traces as short as possible even though I haven’t routed anything
+also added pull-ups and random ESD protection that I may or may not actually populate
+got through it alive, but just barely
+
+![day2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--49d7d89f84e8693ed5babf6b7e2cd3abce66a3f0/day2.png)
+  
+
