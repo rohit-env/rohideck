@@ -54,3 +54,12 @@ also started routing logic enable signals to give me more control later
 kinda messy but functionally complete![day4.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--fd94e24be29d5c38b869675385ff19243a17c339/day4.png)
   
 
+## 10/11/2025 8 PM - the gpio, ethernet, sd signals etc., are getting crowded  
+
+this was cleanup day, had to declutter a lot of overlapping nets
+focused on GPIO and voltage domains because things were starting to get scary
+double checked voltage levels everywhere and pulled back any accidental 5V hits
+renamed nets to stuff like USB_D+ and PWR_BTN so I don’t get lost later
+added a few jumpers where I needed config flexibility![gpio.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--f982bf6c752e0e6e82c77e3ed0b15de5d7ac2dd7/gpio.png)
+  
+
