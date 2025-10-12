@@ -63,3 +63,12 @@ renamed nets to stuff like USB_D+ and PWR_BTN so I don’t get lost later
 added a few jumpers where I needed config flexibility![gpio.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--f982bf6c752e0e6e82c77e3ed0b15de5d7ac2dd7/gpio.png)
   
 
+## 10/12/2025 - added a bunch of buttons, switches, and gpio expands  
+
+felt like expanding the UI side today, so buttons and switches got added
+dropped in an IO expander to control all the random toggles I want
+added RGB LED, backlight control, and the mandatory cyberpunk toggle
+also threw in debug pads and labeled everything just in case I forget stuff later
+double checked how the esp talks to the neopixel![buttons.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bea606db09a49f9c9629447154d89016010342b1/buttons.png)
+  
+
