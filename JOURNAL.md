@@ -63,12 +63,23 @@ renamed nets to stuff like USB_D+ and PWR_BTN so I don’t get lost later
 added a few jumpers where I needed config flexibility![gpio.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--f982bf6c752e0e6e82c77e3ed0b15de5d7ac2dd7/gpio.png)
   
 
-## 10/12/2025 - added a bunch of buttons, switches, and gpio expands  
+## 10/12/2025 8 AM - added a bunch of buttons, switches, and gpio expands  
 
 felt like expanding the UI side today, so buttons and switches got added
 dropped in an IO expander to control all the random toggles I want
 added RGB LED, backlight control, and the mandatory cyberpunk toggle
 also threw in debug pads and labeled everything just in case I forget stuff later
 double checked how the esp talks to the neopixel![buttons.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bea606db09a49f9c9629447154d89016010342b1/buttons.png)
+  
+
+## 10/12/2025 9 AM - threw in the power switch logic  
+
+focused entirely on the battery and power switch logic today
+added charging ICs, battery monitor, and some MOSFET magic for switching
+realized I forgot to add thermistor protection, so threw that in last minute
+checked current sense resistor values like 5 times because battery fires aren’t cool
+rewired the main power path so everything’s a bit safer
+design is power-heavy now but kinda elegant
+will probably still debug it with a fire extinguisher nearby![power switch.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--e7bb61ba90cab78b7df135d8d4a798329d68e11c/power%20switch.png)
   
 
