@@ -72,7 +72,7 @@ also threw in debug pads and labeled everything just in case I forget stuff late
 double checked how the esp talks to the neopixel![buttons.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bea606db09a49f9c9629447154d89016010342b1/buttons.png)
   
 
-## 10/12/2025 9 AM - threw in the power switch logic  
+## 10/12/2025 9:38 AM - threw in the power switch logic  
 
 focused entirely on the battery and power switch logic today
 added charging ICs, battery monitor, and some MOSFET magic for switching
@@ -81,5 +81,16 @@ checked current sense resistor values like 5 times because battery fires aren’
 rewired the main power path so everything’s a bit safer
 design is power-heavy now but kinda elegant
 will probably still debug it with a fire extinguisher nearby![power switch.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--e7bb61ba90cab78b7df135d8d4a798329d68e11c/power%20switch.png)
+  
+
+## 10/12/2025 9:40 AM - general cleanup and better power domain separation  
+
+long session , mostly organizing the whole schematic properly
+split things into hierarchy sheets because the top level was getting out of control
+reassigned power domains and labeled them to make layout cleaner later
+caught a bunch of dumb mistakes like misnamed nets and flipped diodes
+also started writing notes inside schematic blocks to help future-me
+deleted some sketchy looking wires and redrew for clarity
+design now feels like an actual engineering thing and not a spaghetti nightmare![cleanup.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d0735bf9bcca186518cf2607a27d0dadca2b5570/cleanup.png)
   
 
