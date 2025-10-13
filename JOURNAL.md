@@ -94,7 +94,7 @@ deleted some sketchy looking wires and redrew for clarity
 design now feels like an actual engineering thing and not a spaghetti nightmare![cleanup.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d0735bf9bcca186518cf2607a27d0dadca2b5570/cleanup.png)
   
 
-## 10/13/2025 - display interface is finally somewhat sane	  
+## 10/13/2025 8:03 PM - display interface is finally somewhat sane	  
 
 this one was about the screen and making sure it won’t fry
 hooked up the LCD interface and added ESD resistors on all the touch lines
@@ -103,5 +103,13 @@ double checked the display’s backlight, touchscreen, and data lines
 added a debug header just to probe signals later if things don’t work
 organized the connector pins to make layout easier
 this part was clean.![blueprint stuff.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--de6eac190f84afec7f4474a248ebf7cebad02246/blueprint%20stuff.png)
+  
+
+## 10/13/2025 8:05 PM - finished the display PCB design, it’s looking clean and mini  
+
+started work on the display PCB and honestly this one's way calmer than the main board
+got the basic stuff in first power input, the FPC connector for the screen, and some random passives
+had to rotate the layout like 3 times to make the FPC orientation make sense
+added pull-up resistors.![display pcb doneee.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAwMywicHVyIjoiYmxvYl9pZCJ9fQ==--b987bba5993dd67100762fb9fdcc1a27fcc8db02/display%20pcb%20doneee.png)
   
 
