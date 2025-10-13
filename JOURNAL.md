@@ -94,3 +94,14 @@ deleted some sketchy looking wires and redrew for clarity
 design now feels like an actual engineering thing and not a spaghetti nightmare![cleanup.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d0735bf9bcca186518cf2607a27d0dadca2b5570/cleanup.png)
   
 
+## 10/13/2025 - display interface is finally somewhat sane	  
+
+this one was about the screen and making sure it won’t fry
+hooked up the LCD interface and added ESD resistors on all the touch lines
+tried to keep traces short even though I’m still in schematic mode
+double checked the display’s backlight, touchscreen, and data lines
+added a debug header just to probe signals later if things don’t work
+organized the connector pins to make layout easier
+this part was clean.![blueprint stuff.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--de6eac190f84afec7f4474a248ebf7cebad02246/blueprint%20stuff.png)
+  
+
