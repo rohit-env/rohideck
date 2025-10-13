@@ -113,12 +113,3 @@ had to rotate the layout like 3 times to make the FPC orientation make sense
 added pull-up resistors.![display pcb doneee.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAwMywicHVyIjoiYmxvYl9pZCJ9fQ==--b987bba5993dd67100762fb9fdcc1a27fcc8db02/display%20pcb%20doneee.png)
   
 
-## 10/13/2025 8:07 PM - final layout of the main PCB, all the chaos finally connecte  
-
-finished up the main PCB layout and it’s giving boss battle energy
-revisited every sheet and double checked for footprint mismatches or missing caps
-replaced some jank passives from earlier with proper parts and cleaned up nets
-went full sent on layout had to rip up the power plane.
-![main pcb layout.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--58039cbd4dfb77eab1c993f89ba578948530b928/main%20pcb%20layout.png)
-  
-
