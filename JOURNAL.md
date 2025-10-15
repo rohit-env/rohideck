@@ -113,12 +113,20 @@ had to rotate the layout like 3 times to make the FPC orientation make sense
 added pull-up resistors.![display pcb doneee.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAwMywicHVyIjoiYmxvYl9pZCJ9fQ==--b987bba5993dd67100762fb9fdcc1a27fcc8db02/display%20pcb%20doneee.png)
   
 
-## 10/15/2025 - final round of cleanup and review  
+## 10/15/2025 7:17 PM - final round of cleanup and review  
 
 wrapped up the final round of cleanup and review today
 triple-checked pinouts, footprints, and power rails for errors
 added fiducials, test points, and random extras like boot jumpers
 also finalized the USB-C and HDMI protection stuff. worked on deciding the dimensions for the pcb borders and made sure that it fit my case dimensions that i have planned, also many components i placed on the board, just the process of deciding the border length took a lot of time, started routing the pcb and i finished abtu 20% of it, i am thinking of importing it to easy eda pro and autorouting it but i want the source files so ill keep it. today i finished routing the display pcb, and started routing the main pcb, it did take a lot of retries since i had to replace parts and i finally found a suitable arrangement, routig all the parts in the main pcb was pretty hectic, ive finished like 70% of it, i've got school stuff to do now so imma take the night off
 ![gpio.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--348c40f1cdab6ddb6df3eb486af41170132dfe9e/gpio.png)
+  
+
+## 10/15/2025 7:21 PM - final layout of the main PCB, all the chaos finally connecte  
+
+big day finished up the main PCB layout and it’s giving boss battle energy
+revisited every sheet and double checked for footprint mismatches or missing caps
+replaced some jank passives from earlier with proper parts and cleaned up nets
+went full sent on layout had to rip up the power plane.![main pcb layout.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--24f35a016bf4210d20188105e9a24a40fe8bca50/main%20pcb%20layout.png)
   
 
