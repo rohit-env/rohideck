@@ -135,3 +135,10 @@ went full sent on layout had to rip up the power plane.![main pcb layout.png](ht
 Did more work on the case for the display PCB today. Most of the time went into figuring out the outer dimensions so the board actually fits in clean. Kept adjusting a few mm here and there to match the rough size I had in my head. Took way longer than it should’ve. Once that was sorted, I started adding the cutouts and screw holes. made sure the ports had breathing room, and triple-checked all the hole spacing. Don’t wanna be that guy who forgets to leave space for the USB port. Didn’t bother adding fillets or rounded corners yet just getting the basic shape right for now. Might tweak the aesthetics later once I test fit the first cut. But yeah, it’s finally starting to look like a proper case.![display pcb case.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5MywicHVyIjoiYmxvYl9pZCJ9fQ==--e3359f4fab648496f90df3fa7bed329ea29b67e6/display%20pcb%20case.png)
   
 
+## 10/18/2025 - bottom half of the display case  
+
+Started designing the bottom half of the display case. The goal was to keep it simple but still make sure everything lines up clean. Took a bit of time messing with dimensions mainly double checking hole positions it matched the PCB layout. Rounded off the corners to make it less boxy and added a small notch for cable clearance later if I need it. The cutouts for the screen area and the mounts came out nice in the 3D preview.
+
+Honestly just getting the case to sit right with the PCB was half the battle, but it looks solid now. Ready to move on to the top half next.![maincase.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--69ba98167016cc9c3f458bbf26f3bf3916cb5ab6/maincase.png)
+  
+
