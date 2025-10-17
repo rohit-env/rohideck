@@ -130,3 +130,8 @@ replaced some jank passives from earlier with proper parts and cleaned up nets
 went full sent on layout had to rip up the power plane.![main pcb layout.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--24f35a016bf4210d20188105e9a24a40fe8bca50/main%20pcb%20layout.png)
   
 
+## 10/17/2025 - work on the case for the display PCB  
+
+Did more work on the case for the display PCB today. Most of the time went into figuring out the outer dimensions so the board actually fits in clean. Kept adjusting a few mm here and there to match the rough size I had in my head. Took way longer than it should’ve. Once that was sorted, I started adding the cutouts and screw holes. made sure the ports had breathing room, and triple-checked all the hole spacing. Don’t wanna be that guy who forgets to leave space for the USB port. Didn’t bother adding fillets or rounded corners yet just getting the basic shape right for now. Might tweak the aesthetics later once I test fit the first cut. But yeah, it’s finally starting to look like a proper case.![display pcb case.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5MywicHVyIjoiYmxvYl9pZCJ9fQ==--e3359f4fab648496f90df3fa7bed329ea29b67e6/display%20pcb%20case.png)
+  
+
