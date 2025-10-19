@@ -142,3 +142,8 @@ Started designing the bottom half of the display case. The goal was to keep it s
 Honestly just getting the case to sit right with the PCB was half the battle, but it looks solid now. Ready to move on to the top half next.![maincase.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--69ba98167016cc9c3f458bbf26f3bf3916cb5ab6/maincase.png)
   
 
+## 10/19/2025 - finished the case for the display PCB  
+
+Did a round of redesigns on the display PCB case today. The fit was way off the board wasn’t sitting properly, and a couple of mounting points were slightly misaligned. Spent a good chunk of time figuring out where the interference was happening. Turns out a few standoffs were just a millimeter too tall, and one of the inner walls was pushing against the header pins. Ended up reworking that entire section, lowered the standoffs a bit, and shifted the internal supports to line up cleanly with the PCB. Also widened the slot near the connector since it was way too tight. Not the most exciting part of the build, but necessary. The new version should finally snap together without forcing it.![corrected display pcb case.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--898391bb9149ad6ece0985337daaa9129c2228fe/corrected%20display%20pcb%20case.png)
+  
+
