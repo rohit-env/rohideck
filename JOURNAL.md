@@ -142,8 +142,17 @@ Started designing the bottom half of the display case. The goal was to keep it s
 Honestly just getting the case to sit right with the PCB was half the battle, but it looks solid now. Ready to move on to the top half next.![maincase.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--69ba98167016cc9c3f458bbf26f3bf3916cb5ab6/maincase.png)
   
 
-## 10/19/2025 - finished the case for the display PCB  
+## 10/19/2025 9:33 AM - finished the case for the display PCB  
 
 Did a round of redesigns on the display PCB case today. The fit was way off the board wasn’t sitting properly, and a couple of mounting points were slightly misaligned. Spent a good chunk of time figuring out where the interference was happening. Turns out a few standoffs were just a millimeter too tall, and one of the inner walls was pushing against the header pins. Ended up reworking that entire section, lowered the standoffs a bit, and shifted the internal supports to line up cleanly with the PCB. Also widened the slot near the connector since it was way too tight. Not the most exciting part of the build, but necessary. The new version should finally snap together without forcing it.![corrected display pcb case.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--898391bb9149ad6ece0985337daaa9129c2228fe/corrected%20display%20pcb%20case.png)
+  
+
+## 10/19/2025 9:52 AM - finished bottom half of the display case  
+
+Worked on the bottom half of the display case again today and yeah, this one turned into a bit of a headache. Thought I had everything lined up perfectly from the last time, but once I started checking against the PCB, a bunch of small mistakes popped up. Hole spacing was slightly off, one of the mounting bosses was shifted, and somehow the screen cutout ended up a few millimeters too low. Spent the next three hours just correcting dimensions, realigning parts, and re-exporting the model like ten times.
+
+It was one of those “looks fine until you zoom in” kind of days. Eventually got everything to line up properly holes, ports, and screen area all matching the PCB layout. Painful process, but the bottom half finally fits like it should now. Definitely learned to double-check my reference planes before locking in dimensions.
+![display case corrected.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--78910dbe7a8917f4891cb697ac98bca9500f9b5c/display%20case%20corrected.png)
+
   
 
