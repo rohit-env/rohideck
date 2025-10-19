@@ -156,3 +156,9 @@ It was one of those “looks fine until you zoom in” kind of days. Eventually 
 
   
 
+## 10/19/2025 10 AM - started work on the top half of the case  
+
+I started working on the top half of the case. This part was kind of annoying, to be honest. I had to figure out the exact cutout for the display and ensure it sat flush without pressing too hard on the screen. It took a few tries to get the depth right. I kept toggling between the model and the actual display dimensions just to be sure.Then came the USB port clearance, which was a real hassle. Tiny shifts made it either not fit or too loose. I finally added a small beveled area around it so it wouldn’t scrape while plugging things in. I also had to make sure the mounting holes lined up perfectly with the bottom half. I used offsets and several measuring tools in Fusion to get it right. I added a little lip around the edges to help with alignment when snapping it on, and I created some space inside for routing wires from the display. It’s not the prettiest lid, but it gets the job done. I might refine the outer surface later to make it look cleaner. For now, I’m just focused on function.![display top.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--12070bc0a9ff717fbca8f1768853e24819413e31/display%20top.png)
+![display top measure.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--72cc45b27099bc96cd57086809dbef93d3f5e484/display%20top%20measure.png)
+  
+
