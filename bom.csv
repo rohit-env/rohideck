@@ -1,0 +1,20 @@
+Component,Description,Qty,Estimated Price (USD),Link
+PCB,Custom PCB,1,$200 (without PCBA),JLCPCB
+4.3 inch display,Display for the deck,1,$40,Robu
+ Raspberry Pi Compute Module,,1,$80,Robu
+ESP32 Microcontroller,,1, $20.5 ,Robocraze
+Battery Protection,2S 21700 Battery Protection BMS (7.4V),1,$4.35,amazon
+USB-C PD,USB-C PD trigger board,1,$10,Robu
+2S Battery Charging,2S Li-ion balance charger board,1,$0.5,Robu
+Power Switch,power MOSFET switch board,1,$7,Robu
+5V Voltage Regulator,5V buck converter module,1,$2,Robu
+3.3V Voltage Regulator,3.3V buck converter module,1,$2,Robu
+Batteries,2x 21700 Li-ion cells,2,$13.38,Robu
+4-Port USB HUB,USB 2.0 hub module,1,$3,Robu
+Ex-Display EDID Power,24C04 EEPROM chip,1,,
+Nurolink I2C Pull-ups,4.7k? resistors,1,nil,nil
+LCD Backlight,LED backlight driver board,1,nil,
+Touch Controller,FT5336 touch controller module,1,nil,nil
+CM Activity & Power LED,3mm or 5mm LEDs + 330? resistors,,nil,nil
+SD-Card Power,MicroSD card slot,,$0.5,nil
+Total,,,$382,
