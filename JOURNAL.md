@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Rohideck**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/348).
-
-
 ## 10/9/2025 - got the power rails and buck converters roughly figured out  
 
 got started with the power stuff today because that felt like a good anchor
@@ -166,5 +162,13 @@ I started working on the top half of the case. This part was kind of annoying, t
 
 spent most of the time just modeling the top half of the display case. it honestly took longer than expected lining everything up with the pcb was kind of a pain. had to double check the display cutout, standoff placement, and make sure nothing would crash into the components later. i played around with the screen window quite a bit… didn’t want it to look bulky, but also didn’t want it too snug and risk it scraping the screen when assembled. added a few guiding walls inside so the pcb can sort of “slot in” when it’s time. should help with alignment too. tweaked tolerances here and there, especially around the screen opening. might still need adjustments after the first print, but visually it’s looking nice. not the most fun part of the build, but we’re getting there.![display case top.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIwMywicHVyIjoiYmxvYl9pZCJ9fQ==--69c289ebfc65b5c4202c498c7d287ec427904a97/display%20case%20top.png)
 ![display case 2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--11f7abe48227980b50afccdf30fcdf8043fda588/display%20case%202.png)
+  
+
+## 10/21/2025 - Assembled all the parts and uploaded stuff to my github repo  
+
+Today, I finally finished assembling all of the parts I had been working on in Fusion 360. merged all of the individual components into a single, comprehensive assembly, including the display PCB, the top and bottom halves of the case, the mounts, and all of the tiny parts. It was immensely satisfying to see everything come together in 3D after spending so much time designing each component independently.
+
+Of course, it wasn't all smooth. I had to fix a few alignment issues when putting the parts together. Some faces weren't mating correctly, and some screw holes weren't as neatly aligned as I had hoped. 
+![full deck.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--76ecda4c3a2255d29dced530824f413d81dd3042/full%20deck.png)
   
 
