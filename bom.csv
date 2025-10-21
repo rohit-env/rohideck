@@ -1,5 +1,5 @@
 Component,Description,Qty,Estimated Price (USD),Link
-PCB,Custom PCB,1,$168 (without PCBA),JLCPCB
+PCB,Custom PCB,1,$200 (without PCBA),JLCPCB
 4.3 inch display,Display for the deck,1,$36.16,
 21700 batteries,Batteries,1,$10.41,
  Raspberry Pi Compute Module,,1,$80,Robu
@@ -19,3 +19,4 @@ Touch Controller,FT5336 touch controller module,1,nil,nil
 CM Activity & Power LED,3mm or 5mm LEDs + 330? resistors,,nil,nil
 SD-Card Power,MicroSD card slot,,$0.5,nil
 Total,,,$355,
+
