@@ -2,7 +2,8 @@
 
 so I went off and designed a whole cyberdeck pcb, it’s kinda sick, it's a full-on deck with ports, buttons, blinky stuff, and that clean hacker aesthetic. built it because laptops are boring and carrying around raw PCBs just hits different.the board’s got space for a pi, a couple usb ports, an oled, and some clicky switches. stuff’s laid out in a way that makes sense, but also makes you look like you’re about to jack into the matrix at a coffee shop. the idea is simple cram as much functional coolness as possible onto one board and still make it portable enough to flex at meetups. this whole thing started with a sketch on a sticky note and now it’s a real life project(obviously i need money to make it real). i even left space for expansion headers because future proofing or whatever. no idea how many late nights went into routing this lol
 
-<img width="989" height="806" alt="Screenshot 2025-08-03 184418" src="https://github.com/user-attachments/assets/8a982eee-6d87-4739-a257-50297cc74c29" />
+<img width="989" height="806" alt="deck" src="https://github.com/user-attachments/assets/7797e654-d0d4-4bab-b668-7ee4f44bf812" />
+
 
 ---
 
@@ -30,33 +31,35 @@ USB-C formfactor Nurolink/docking port with UART, I2C.
 
 | Image | Description |
 |-------|-------------|
-| <img width="700" height="806" alt="Screenshot 2025-08-03 184418" src="https://github.com/user-attachments/assets/a0358e74-a1ff-451d-95d3-1a1b42b4535d" /> | top |
+| <img width="989" height="806" alt="deck" src="https://github.com/user-attachments/assets/6c1def85-0f0e-462d-9dc6-b3055fdb8a95" /> | top |
 
 | Image | Description |
 |-------|-------------|
-| <img width="700" height="480" alt="Screenshot 2025-08-03 184431" src="https://github.com/user-attachments/assets/0991784a-5e1d-49ee-b815-4d93eaa694f7" /> | side |
+| <img width="891" height="480" alt="side view" src="https://github.com/user-attachments/assets/d8901ddf-ac8f-4dab-b7ad-45e42b285a9a" /> | side |
 
 | Image | Description |
 |-------|-------------|
-| <img width="700" height="660" alt="Screenshot 2025-08-03 184425" src="https://github.com/user-attachments/assets/3709d330-c883-4178-94e7-fac9b8c3c81f" /> | top side |
+| <img width="1331" height="660" alt="top tilted view" src="https://github.com/user-attachments/assets/1c801491-4eb1-4404-a341-73ebf118c451" /> | top side |
 
 | Image | Description |
 |-------|-------------|
-| <img width="700" height="1029" alt="image" src="https://github.com/user-attachments/assets/774dd426-c12c-472b-97d5-62b2c5fbfcb2" /> | main pcb render |
+| <img width="1702" height="1029" alt="main pcb render" src="https://github.com/user-attachments/assets/c1dd004f-a1cc-4bc6-9576-23b4b22a8e24" /> | main pcb render |
 
 | Image | Description |
 |-------|-------------|
-| <img width="700" height="755" alt="Screenshot 2025-08-03 185309" src="https://github.com/user-attachments/assets/cf1c71d7-a157-43b0-ab23-1f359169ee3c" /> | main pcb |
+| <img width="1137" height="755" alt="main pcb" src="https://github.com/user-attachments/assets/a145adfb-19ad-41ef-b477-a697a1a336b4" /> | main pcb |
 
 | Image | Description |
 |-------|-------------|
-| <img width="700" height="711" alt="Screenshot 2025-08-03 185255" src="https://github.com/user-attachments/assets/6da6c6f4-f4eb-4e64-bfa7-451783f74eaf" />  | display pcb |
+| <img width="930" height="711" alt="display pcb" src="https://github.com/user-attachments/assets/fefc851e-b3cf-44df-9f30-e513d8ae89d3" /> | display pcb |
 
 ----
 
 # gallery
 
-<img width="700" height="995" alt="image" src="https://github.com/user-attachments/assets/c5ed1fed-9230-4b0c-bdbf-e8e8dc79a32b" />
-<img width="700" height="873" alt="image" src="https://github.com/user-attachments/assets/3468191d-28a7-47f8-bce0-caf51d38153d" />
-<img width="700" height="1225" alt="image" src="https://github.com/user-attachments/assets/42171576-542f-4a7b-940d-f1c055effb07" />
-<img width="700" height="1189" alt="image" src="https://github.com/user-attachments/assets/9385c413-366f-4d0b-87c7-17d146325272" />
+<img width="930" height="711" alt="display pcb" src="https://github.com/user-attachments/assets/895c58f9-4df6-457e-8f63-46bb45f5643b" />
+<img width="1137" height="755" alt="main pcb" src="https://github.com/user-attachments/assets/a145adfb-19ad-41ef-b477-a697a1a336b4" />
+<img width="1759" height="1225" alt="sch scr 1" src="https://github.com/user-attachments/assets/865cd22d-7c12-4627-87a6-4e219d1ff9e6" />
+<img width="1923" height="1189" alt="sch scr 2" src="https://github.com/user-attachments/assets/5c8a86e9-e6bd-44f7-958e-26d8f9f98a6f" />
+
+
